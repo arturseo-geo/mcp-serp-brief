@@ -1,5 +1,8 @@
 # mcp-serp-brief
 
+> Built at [The GEO Lab](https://thegeolab.net) — where every content brief is tested against real citation data before the methodology is published.
+
+
 MCP server that generates SERP-targeted content briefs using DataForSEO and Claude AI. Analyzes search engine results and produces actionable content strategies for writers and SEO professionals.
 
 ## Features
