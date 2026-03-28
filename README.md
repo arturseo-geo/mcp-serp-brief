@@ -181,3 +181,7 @@ Artur — [arturseo-geo](https://github.com/arturseo-geo)
 ## Repository
 
 [github.com/arturseo-geo/mcp-serp-brief](https://github.com/arturseo-geo/mcp-serp-brief)
+
+---
+
+[Artur Ferreira / The GEO Lab](https://thegeolab.net) · [X/Twitter](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo)
