@@ -1,0 +1,35 @@
+{
+  "name": "mcp-serp-brief",
+  "version": "1.0.0",
+  "description": "MCP server that generates SERP-targeted content briefs using DataForSEO and Claude",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "mcp-serp-brief": "src/index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.8.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "serp",
+    "content",
+    "brief",
+    "seo",
+    "dataseo"
+  ],
+  "author": "Artur",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:arturseo-geo/mcp-serp-brief.git"
+  }
+}
